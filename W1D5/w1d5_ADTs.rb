@@ -63,7 +63,6 @@ class Map
   def show
     p @map
   end
-
 end
 
 mappy=Map.new
