@@ -48,4 +48,43 @@ class Play
         id = ?
     SQL
   end
+
+  def self.find_by_title(title)
+
+  end
+
+  def self.find_by_playwright(name)
+
+  end
+end
+
+class Playwright
+
+  attr_accessor
+  attr_reader
+
+  def new
+
+  end
+
+  def self.all
+
+  end
+
+  def self.find_by_name(name)
+
+  end
+
+  def create
+
+  end
+
+  def update
+
+  end
+
+  def get_plays
+
+  end
+
 end
